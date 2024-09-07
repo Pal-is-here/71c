@@ -1,0 +1,21 @@
+#video{
+    width: 100%;
+    height: 500pxc;
+    border: none;
+
+}
+.travel_mainDiv{
+   border:1px solid lightgoldenrodyellow; 
+}
+.travel_mainDiv img{
+    width:100%;
+}
+.travel_mainDiv h5{
+    margin:20px;
+}
+.school{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
